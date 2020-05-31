@@ -1,0 +1,2 @@
+C:\src\EmailSearch\obj\Debug\EmailSearch.csprojAssemblyReference.cache
+C:\src\EmailSearch\obj\Debug\EmailSearch.csproj.CoreCompileInputs.cache
