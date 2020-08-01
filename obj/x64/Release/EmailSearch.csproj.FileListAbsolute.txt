@@ -1,0 +1,6 @@
+C:\src\EmailSearch\bin\x64\Release\EmailSearch.exe.config
+C:\src\EmailSearch\bin\x64\Release\EmailSearch.exe
+C:\src\EmailSearch\bin\x64\Release\EmailSearch.pdb
+C:\src\EmailSearch\obj\x64\Release\EmailSearch.csproj.CoreCompileInputs.cache
+C:\src\EmailSearch\obj\x64\Release\EmailSearch.exe
+C:\src\EmailSearch\obj\x64\Release\EmailSearch.pdb
